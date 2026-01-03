@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "rigs": {}
+  "rigs": {
+    "psu_teaching": {
+      "git_url": "git@github.com:CommanderCrowCode/teaching.git",
+      "added_at": "2026-01-04T00:13:37.236156453+07:00",
+      "beads": {
+        "repo": "",
+        "prefix": "pt"
+      }
+    }
+  }
 }

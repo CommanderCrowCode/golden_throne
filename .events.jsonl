@@ -1,0 +1,4 @@
+{"ts":"2026-01-03T17:11:50Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-709783","cwd":"/home/tanwa/gt/deacon","role":"deacon","session_id":"deacon-709783","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T17:12:04Z","source":"gt","type":"session_start","actor":"mayor","payload":{"actor_pid":"mayor-710228","cwd":"/home/tanwa/gt","role":"mayor","session_id":"mayor-710228"},"visibility":"feed"}
+{"ts":"2026-01-03T17:12:14Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-01-03T17:17:42Z","source":"gt","type":"session_start","actor":"psu_teaching/witness","payload":{"actor_pid":"psu_teaching/witness-715552","cwd":"/home/tanwa/gt/psu_teaching/witness","role":"psu_teaching/witness","session_id":"psu_teaching/witness-715552","topic":"patrol"},"visibility":"feed"}

@@ -1,0 +1,9 @@
+2026/01/04 00:17:38 Daemon starting (PID 715134)
+2026/01/04 00:17:38 Daemon running, recovery heartbeat interval 3m0s
+2026/01/04 00:17:38 Feed curator started
+2026/01/04 00:17:38 Heartbeat starting (recovery-focused)
+2026/01/04 00:17:38 Spawning Boot for triage...
+2026/01/04 00:17:38 Boot spawned successfully
+2026/01/04 00:17:38 Witness for psu_teaching not running per agent bead, starting...
+2026/01/04 00:17:38 Witness session for psu_teaching started successfully
+2026/01/04 00:17:39 Heartbeat complete (#1)
