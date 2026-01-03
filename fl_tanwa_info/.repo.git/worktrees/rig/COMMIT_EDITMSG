@@ -1,0 +1,32 @@
+Complete Homepage MVP: rebrand, navigation, ventures, footer
+
+- Rebrand hero from Flamingo492 to Tanwa Arpornthip personal branding
+- Add fixed navigation bar (About/Ventures/Speaking/Blog/Contact)
+- Add Ventures section with 4 cards (Two Flamingos, Flamingo 492, Lumicello, Vector)
+- Add footer with social links (LinkedIn, GitHub, Google Scholar, Medium)
+- Update meta tags, OG tags, and schema.org for consistent branding
+- Change contact email from flamingo492.com to tanwa.info
+
+Closes: fl_tanwa_info-sk8, fl_tanwa_info-m5o, fl_tanwa_info-8tl, fl_tanwa_info-kd4, fl_tanwa_info-0ho, fl_tanwa_info-8f4, fl_tanwa_info-sno
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    furiosa <tanwa@twoflamingos.capital>
+#
+# interactive rebase in progress; onto 713069d
+# Last command done (1 command done):
+#    pick b90308d Complete Homepage MVP: rebrand, navigation, ventures, footer
+# No commands remaining.
+# You are currently rebasing branch 'temp-merge' on '713069d'.
+#
+# Changes to be committed:
+#	modified:   index.html
+#
+# Untracked files:
+#	CLAUDE.md
+#

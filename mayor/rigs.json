@@ -1,6 +1,22 @@
 {
   "version": 1,
   "rigs": {
+    "10x_screening": {
+      "git_url": "git@github.com:CommanderCrowCode/10x_deal_screening.git",
+      "added_at": "2026-01-04T00:27:09.324993843+07:00",
+      "beads": {
+        "repo": "",
+        "prefix": "1s"
+      }
+    },
+    "fl_tanwa_info": {
+      "git_url": "git@github.com:CommanderCrowCode/tanwa-info.git",
+      "added_at": "2026-01-04T00:28:11.383814341+07:00",
+      "beads": {
+        "repo": "",
+        "prefix": "fti"
+      }
+    },
     "psu_teaching": {
       "git_url": "git@github.com:CommanderCrowCode/teaching.git",
       "added_at": "2026-01-04T00:13:37.236156453+07:00",

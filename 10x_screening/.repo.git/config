@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:CommanderCrowCode/10x_deal_screening.git
+[branch "polecat/furiosa-mjylws4o"]
+	remote = origin
+	merge = refs/heads/polecat/furiosa-mjylws4o
+[branch "polecat/nux-mjyml7cu"]
+	remote = origin
+	merge = refs/heads/polecat/nux-mjyml7cu

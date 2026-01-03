@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 ece25a8749220b909ff79fc46da4d99de579a1a0 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767461228 +0700
+ece25a8749220b909ff79fc46da4d99de579a1a0 ece25a8749220b909ff79fc46da4d99de579a1a0 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767461228 +0700	reset: moving to HEAD
+ece25a8749220b909ff79fc46da4d99de579a1a0 ece25a8749220b909ff79fc46da4d99de579a1a0 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463656 +0700	checkout: moving from main to main
+ece25a8749220b909ff79fc46da4d99de579a1a0 ece25a8749220b909ff79fc46da4d99de579a1a0 git stash <tanwa@twoflamingos.capital> 1767463672 +0700	reset: moving to HEAD
+ece25a8749220b909ff79fc46da4d99de579a1a0 6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463680 +0700	checkout: moving from main to temp
+6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 ece25a8749220b909ff79fc46da4d99de579a1a0 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463777 +0700	checkout: moving from temp to main
+ece25a8749220b909ff79fc46da4d99de579a1a0 6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463777 +0700	merge temp: Fast-forward
+6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 git stash <tanwa@twoflamingos.capital> 1767464925 +0700	reset: moving to HEAD
+6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464925 +0700	checkout: moving from main to main
+6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 78f78b6203d7118a083ab88a7b792fb8c50409db Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464945 +0700	checkout: moving from main to temp
+78f78b6203d7118a083ab88a7b792fb8c50409db 6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767465032 +0700	checkout: moving from temp to main
+6ed48a570994cf3a0334ec58c3ca6e0f40b8d586 78f78b6203d7118a083ab88a7b792fb8c50409db Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767465032 +0700	merge temp: Fast-forward

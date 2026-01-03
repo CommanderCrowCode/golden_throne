@@ -1,0 +1,11 @@
+{
+  "type": "rig",
+  "version": 1,
+  "name": "10x_screening",
+  "git_url": "git@github.com:CommanderCrowCode/10x_deal_screening.git",
+  "default_branch": "main",
+  "created_at": "2026-01-04T00:26:51.91084395+07:00",
+  "beads": {
+    "prefix": "1s"
+  }
+}

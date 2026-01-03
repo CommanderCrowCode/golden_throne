@@ -1,0 +1,12 @@
+Reorganize outputs with date-based structure
+
+- Changed output path from outputs/research_results/company_timestamp/
+  to outputs/YYYY-MM/company_name/
+- Added outputs/latest/ symlinks pointing to most recent research
+- Updated PDF generator to scan both new date-based structure and
+  legacy flat structure for backwards compatibility
+- Updated documentation in CLAUDE.md
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

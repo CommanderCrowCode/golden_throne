@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+27c15385b195aa44c13e3f40a239cedcbe5dfbbc refs/heads/beads-sync
+a3a4ea4a6cbc64a9c95d4f49a21f272d3cd23699 refs/heads/claude/deal-screening-setup-011CUyb51ornZBMxeYby4ajA
+ece25a8749220b909ff79fc46da4d99de579a1a0 refs/heads/main
+850200172d250f438dd2219ccd4aadd6c3e889eb refs/tags/v1.0.0
+^2e3a64fae79b7dcceef8c32c00e1a18781ddfaae

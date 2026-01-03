@@ -1,0 +1,12 @@
+Add unified 'deal' CLI wrapper with subcommands
+
+- deal run <company> - Run research pipeline
+- deal status [--watch] - Show dashboard
+- deal report [company] - Generate PDF
+- deal list [--completed|--pending|--failed] - List by status
+
+Replaces need to remember multiple scripts and flags.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:CommanderCrowCode/tanwa-info.git
+[branch "polecat/nux-mjyllrcr"]
+	remote = origin
+	merge = refs/heads/polecat/nux-mjyllrcr
+[branch "polecat/furiosa-mjyll3c5"]
+	remote = origin
+	merge = refs/heads/polecat/furiosa-mjyll3c5
+[branch "polecat/nux-mjymg1r0"]
+	remote = origin
+	merge = refs/heads/polecat/nux-mjymg1r0
+[branch "polecat/nux-mjyni00y"]
+	remote = origin
+	merge = refs/heads/polecat/nux-mjyni00y

@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767461290 +0700
+cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767461291 +0700	reset: moving to HEAD
+cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d f3bbe649c2edc174b0434847dd4ac72797c7453b Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463148 +0700	checkout: moving from main to temp-merge
+f3bbe649c2edc174b0434847dd4ac72797c7453b 4c7f2e51314ce20bacb5755ab562d9ef897b9e98 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463154 +0700	rebase (start): checkout origin/main
+4c7f2e51314ce20bacb5755ab562d9ef897b9e98 713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463155 +0700	rebase (pick): Add deployment config, security headers, SEO files, and social meta
+713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463155 +0700	rebase (finish): returning to refs/heads/temp-merge
+713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463181 +0700	checkout: moving from temp-merge to main
+cbcca9a74f966f44fcdb98f74ec6ad2bb16a2d5d 713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463182 +0700	merge temp-merge: Fast-forward
+713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 b90308dfd4e316961ed264c50bdb12aa6961d4c5 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463343 +0700	checkout: moving from main to temp-merge
+b90308dfd4e316961ed264c50bdb12aa6961d4c5 713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463348 +0700	rebase (start): checkout origin/main
+713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463390 +0700	rebase (continue): Complete Homepage MVP: rebrand, navigation, ventures, footer
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463390 +0700	rebase (finish): returning to refs/heads/temp-merge
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463400 +0700	checkout: moving from temp-merge to main
+713069d3dbe2afbb5273b1ee1d53ec18aadb2c74 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463400 +0700	merge temp-merge: Fast-forward
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463429 +0700	checkout: moving from main to temp-merge
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463434 +0700	checkout: moving from temp-merge to temp-merge
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 3a605b86ebe22169bc111bb1e47d87f3a7849026 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463434 +0700	rebase (start): checkout origin/main
+3a605b86ebe22169bc111bb1e47d87f3a7849026 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463456 +0700	rebase (abort): returning to refs/heads/temp-merge
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767463505 +0700	checkout: moving from temp-merge to main
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 6f8f76e6162cb71f6f0efedac96d11a37830610c Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464576 +0700	checkout: moving from main to temp-merge
+6f8f76e6162cb71f6f0efedac96d11a37830610c 4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464588 +0700	rebase (start): checkout origin/main
+4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa 4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464623 +0700	rebase (finish): returning to refs/heads/temp-merge
+4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767464642 +0700	checkout: moving from temp-merge to main
+4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 085e2ca0921978386535ff127a2813644fe5dccb Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767466062 +0700	checkout: moving from main to temp-merge
+085e2ca0921978386535ff127a2813644fe5dccb 4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767466070 +0700	rebase (start): checkout origin/main
+4c9ae1d01e5748a69dd28fb2d0cba858b1e4bcaa 085e2ca0921978386535ff127a2813644fe5dccb Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767466147 +0700	rebase (abort): returning to refs/heads/temp-merge
+085e2ca0921978386535ff127a2813644fe5dccb 4b9049a5993a4f1b6fbc3f49d4b2ef23c8b344b6 Tanwa Arpornthip <tanwa@twoflamingos.capital> 1767466148 +0700	checkout: moving from temp-merge to main
